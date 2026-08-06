@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Cloud Tech Summit 2026 - 1-Day Technical Conference Web Application
 
 A modern, high-performance 1-day technical conference website for **Google Cloud Tech Summit 2026**. Built with **Python and Flask** on the server side, with a responsive front-end featuring Glassmorphism UI, real-time multi-criteria search, category tab filtering, 1-day timetable schedule view, speaker directory, modal session previews, and a 60-minute lunch break.
@@ -143,3 +144,6 @@ Theme colors and design tokens can be customized in `static/css/style.css` under
 The server provides two JSON API endpoints out of the box:
 - `GET /api/talks?q={query}&category={cat_id}&speaker={name}` - Filtered sessions list.
 - `GET /api/talk/<int:talk_id>` - Specific session payload with speaker details.
+=======
+# Antigravity-workshop
+>>>>>>> 6fe3c2f6ad3f96c5ebb40ce1517c5eb312441e60
